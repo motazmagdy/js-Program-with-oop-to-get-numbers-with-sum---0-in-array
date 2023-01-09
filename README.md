@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Gdn is a program get the numbers whose sum equal zero in an entered array . Using OOP with Time Complexity is Quadratic O(n^2) & Space Complexity is Quadratic O(n) .
+Gdn is a program that gets the numbers whose sum equals zero in an entered array. Using OOP with Time Complexity is Quadratic O(n^2) & Space Complexity is Quadratic O(n).
 
 ## User Journey 
 
-First , the user enters the numbers of his array and after each number clicks ( Add to array ) then after the array is completed , the Execute button gets the resuls
+First, the user enters the numbers of his array and after each number clicks ( Add to array ) then after the array is completed, the Execute button gets the results
 
 and if there were no numbers satisfies the sum operation equal 0 the user gets ( No elements found ) 
 
